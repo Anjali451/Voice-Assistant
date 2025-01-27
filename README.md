@@ -6,8 +6,11 @@ This project is a desktop-based voice assistant built using Python. It allows us
 **Features**
 -------------------
 Hands-Free Interaction: Start the conversation with the assistant and give commands without repeating the wake word.
+
 Smart Commands: Recognizes and processes commands such as opening websites and retrieving basic information.
+
 Elegant GUI: Built using ttkbootstrap for a clean, modern look.
+
 Customizable: Easily add or modify commands in the code.
 
 **Technologies Used**
