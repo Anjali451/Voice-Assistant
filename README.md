@@ -1,4 +1,4 @@
-#**Voice Assistant**
+**Voice Assistant**
 -------------------
 This project is a desktop-based voice assistant built using Python. It allows users to interact with the assistant through voice commands, such as opening websites, checking the weather, and more, with a seamless graphical user interface (GUI). Once the conversation starts, users can issue multiple commands without needing to repeat the wake word.
 ![Screenshot (54)](Voice-Assistant.jpg)
