@@ -14,13 +14,13 @@ Customizable: Easily add or modify commands in the code.
 -------------------
 Python Libraries:
 
-speech_recognition for voice recognition.
+  speech_recognition for voice recognition.
 
-pyttsx3 for text-to-speech synthesis.
+  pyttsx3 for text-to-speech synthesis.
 
-webbrowser for launching websites.
+  webbrowser for launching websites.
 
-ttkbootstrap for creating the GUI.
+  ttkbootstrap for creating the GUI.
 
 Multithreading: Ensures the GUI remains responsive while listening for commands.
 
